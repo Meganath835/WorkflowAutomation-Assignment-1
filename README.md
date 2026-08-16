@@ -459,3 +459,7 @@ The models also demonstrate different types of process behaviour:
 * **Scenario 3** demonstrates alternative assignment paths, internal resolution, external escalation, and path merging.
 
 The corresponding `.bpmn` files can be opened and further edited using **Camunda Modeler**, while the diagram images provide a visual representation of each completed process.
+
+
+<img width="4551" height="1170" alt="image" src="https://github.com/user-attachments/assets/de5089de-657e-4fb1-8032-481b5abacdff" />
+
