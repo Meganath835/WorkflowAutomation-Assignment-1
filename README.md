@@ -111,9 +111,8 @@ END
 
 ## BPMN Diagram
 
-![Employee Leave Approval](Scenario-1/employee-leave-approval.png)
+<img width="4551" height="1170" alt="image" src="https://github.com/user-attachments/assets/dc1e42fe-11bb-4d65-8007-134e5c5d171b" />
 
-**BPMN Model:** [`employee-leave-approval.bpmn`](Scenario-1/employee-leave-approval.bpmn)
 
 ---
 
@@ -222,9 +221,9 @@ END
 
 ## BPMN Diagram
 
-![Online Purchase Order Processing](Scenario-2/online-purchase-order.png)
+<img width="7092" height="1230" alt="image" src="https://github.com/user-attachments/assets/46cbe6f0-9a1d-48f0-bcf0-fa75091f99ec" />
 
-**BPMN Model:** [`online-purchase-order.bpmn`](Scenario-2/online-purchase-order.bpmn)
+
 
 ---
 
@@ -399,9 +398,8 @@ END
 
 ## BPMN Diagram
 
-![IT Service Request](Scenario-3/it-service-request.png)
+<img width="6885" height="1665" alt="image" src="https://github.com/user-attachments/assets/296f9257-57a2-4464-88af-5af718c336cc" />
 
-**BPMN Model:** [`it-service-request.bpmn`](Scenario-3/it-service-request.bpmn)
 
 ---
 
@@ -461,5 +459,5 @@ The models also demonstrate different types of process behaviour:
 The corresponding `.bpmn` files can be opened and further edited using **Camunda Modeler**, while the diagram images provide a visual representation of each completed process.
 
 
-<img width="4551" height="1170" alt="image" src="https://github.com/user-attachments/assets/de5089de-657e-4fb1-8032-481b5abacdff" />
+
 
